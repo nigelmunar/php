@@ -1,0 +1,132 @@
+
+[2022-05-15T09:55:39Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T09:55:44Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T09:56:22Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T09:59:16Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:14:37Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:16:12Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:17:32Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:19:29Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:19:48Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:21:07Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:22:14Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:22:20Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:22:51Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(4): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:23:18Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:24:06Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/database/LoggingDatabase.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php; Line: 5; Trace: #0 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): log_error(2, 'require_once(/v...', '/var/www/html/n...', 5)
+#1 /var/www/html/nigelmunar/application/factories/LoggingDatabaseFactory.php(5): require_once()
+#2 /var/www/html/nigelmunar/application/includes/init.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#4 {main}
+
+[2022-05-15T10:24:40Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/factories/EmailDatabaseFactory.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/database/AdministratorDatabase.php; Line: 7; Trace: #0 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): log_error(2, 'require_once(/v...', '/var/www/html/n...', 7)
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): require_once()
+#2 /var/www/html/nigelmunar/application/factories/AdministratorDatabaseFactory.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/application/includes/init.php(6): require_once('/var/www/html/n...')
+#4 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#5 {main}
+
+[2022-05-15T10:25:08Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/factories/EmailDatabaseFactory.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/database/AdministratorDatabase.php; Line: 7; Trace: #0 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): log_error(2, 'require_once(/v...', '/var/www/html/n...', 7)
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): require_once()
+#2 /var/www/html/nigelmunar/application/factories/AdministratorDatabaseFactory.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/application/includes/init.php(6): require_once('/var/www/html/n...')
+#4 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#5 {main}
+
+[2022-05-15T10:25:24Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/factories/EmailDatabaseFactory.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/database/AdministratorDatabase.php; Line: 7; Trace: #0 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): log_error(2, 'require_once(/v...', '/var/www/html/n...', 7)
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): require_once()
+#2 /var/www/html/nigelmunar/application/factories/AdministratorDatabaseFactory.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/application/includes/init.php(6): require_once('/var/www/html/n...')
+#4 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#5 {main}
+
+[2022-05-15T10:25:53Z] Type: ErrorException; Message: require_once(/var/www/html/nigelmunar/application/factories/EmailDatabaseFactory.php): Failed to open stream: No such file or directory; File: /var/www/html/nigelmunar/application/database/AdministratorDatabase.php; Line: 7; Trace: #0 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): log_error(2, 'require_once(/v...', '/var/www/html/n...', 7)
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(7): require_once()
+#2 /var/www/html/nigelmunar/application/factories/AdministratorDatabaseFactory.php(5): require_once('/var/www/html/n...')
+#3 /var/www/html/nigelmunar/application/includes/init.php(6): require_once('/var/www/html/n...')
+#4 /var/www/html/nigelmunar/public_html/index.php(5): require_once('/var/www/html/n...')
+#5 {main}
+
+[2022-05-15T11:29:35Z] Type: PDOException; Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nigelmunar.administrator_permissions' doesn't exist; File: /var/www/html/nigelmunar/application/logging/LoggingPDOStatement.php; Line: 20; Trace: #0 /var/www/html/nigelmunar/application/logging/LoggingPDOStatement.php(20): PDOStatement->execute()
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(818): LoggingPDOStatement->execute()
+#2 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(49): AdministratorDatabase->getPermissionsForAdministrator(31)
+#3 /var/www/html/nigelmunar/application/includes/init.php(15): AdministratorDatabase->getLoggedInAdministrator()
+#4 /var/www/html/nigelmunar/public_html/login.php(5): require_once('/var/www/html/n...')
+#5 {main}
+
+[2022-05-15T11:30:07Z] Type: PDOException; Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nigelmunar.administrator_permissions' doesn't exist; File: /var/www/html/nigelmunar/application/logging/LoggingPDOStatement.php; Line: 20; Trace: #0 /var/www/html/nigelmunar/application/logging/LoggingPDOStatement.php(20): PDOStatement->execute()
+#1 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(818): LoggingPDOStatement->execute()
+#2 /var/www/html/nigelmunar/application/database/AdministratorDatabase.php(49): AdministratorDatabase->getPermissionsForAdministrator(31)
+#3 /var/www/html/nigelmunar/application/includes/init.php(15): AdministratorDatabase->getLoggedInAdministrator()
+#4 /var/www/html/nigelmunar/public_html/login.php(5): require_once('/var/www/html/n...')
+#5 {main}
